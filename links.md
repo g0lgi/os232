@@ -16,7 +16,7 @@ These commands will help you list PCI devices, view information about your CPU, 
   This site contains the main textbook used for the Operating Systems Course at Universitas Indonesia's Faculty of Computer Science, with slides too!
   I find a free textbook about the course very interesting.
 
-* [Linux Crash Course - Formatting & Mounting Storage Volumes]([https://www.os-book.com/OS10/](https://www.youtube.com/watch?v=2Z6ouBYfZr8) ---
+* [Linux Crash Course - Formatting & Mounting Storage Volumes](https://www.youtube.com/watch?v=2Z6ouBYfZr8) ---
   This video explains how to partition disk in Linux.
 
 * [Linux Tutorials | Compressing and Archiving Files in Linux | tar and zip commands | GeeksforGeeks](https://www.youtube.com/watch?v=KucqplDh7LI) ---
