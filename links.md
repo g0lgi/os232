@@ -21,5 +21,11 @@ These commands will help you list PCI devices, view information about your CPU, 
 
 * [Linux Tutorials | Compressing and Archiving Files in Linux | tar and zip commands | GeeksforGeeks](https://www.youtube.com/watch?v=KucqplDh7LI) ---
   I was confused about archive and compressing for quite a lot time, and this video explained those things simply.
+
+* [What's Virtual Memory? - Computerphile](https://www.youtube.com/watch?v=5lFnKYCZT5o)
+  I didn't understand virtual memory and now I understand
+
+* [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk)
+  Increase my understanding on makefile in C
 <br>
 <hr>
