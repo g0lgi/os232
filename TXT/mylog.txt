@@ -1,3 +1,10 @@
+ZCZC W06 20   L00 General, etc.
+ZCZC W06 200  L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 10   L03 GitHub related
+ZCZC W06 10   L04 GitHub Pages related
+ZCZC W06 40   L05 Quiz related including studying
+ZCZC W06 300  L15 Assignment #06
+ZCZC W06 100  L21 Trying Something
 ZCZC W05 25   L00 General, etc.
 ZCZC W05 200  L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 30   L03 GitHub related
