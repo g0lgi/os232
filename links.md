@@ -27,5 +27,11 @@ These commands will help you list PCI devices, view information about your CPU, 
 
 * [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk)
   Increase my understanding on makefile in C
+
+* [States of a Process in Operating Systems](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/)
+  Understanding processes better
+
+* [Multi Threading Models in Process Management](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/)
+  Understanding multi threading
 <br>
 <hr>
