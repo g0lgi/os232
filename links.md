@@ -33,5 +33,12 @@ These commands will help you list PCI devices, view information about your CPU, 
 
 * [Multi Threading Models in Process Management](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/)
   Understanding multi threading
+
+* [Dining Philosopher Problem Using Semaphores](https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/)
+  Explains the dining philosopher problem, and the solution
+
+* [scp command in Linux with Examples](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
+  Helped me with this week's assignment
+
 <br>
 <hr>
