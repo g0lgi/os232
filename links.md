@@ -40,5 +40,13 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [scp command in Linux with Examples](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
   Helped me with this week's assignment
 
+* [Linux From Scratch]((https://www.linuxfromscratch.org/lfs/view/12.0/))
+  Needed for this week's assignment
+
+* [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
+  Helped clarify the book
+
+  
+
 <br>
 <hr>
