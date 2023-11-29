@@ -46,6 +46,10 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
   Helped clarify the book
 
+* [Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm) --- I/O in OS
+
+* [Applications of Input/Output Interface](https://www.geeksforgeeks.org/applications-of-input-output-interface/) --- application of I/O in OS
+
   
 
 <br>
